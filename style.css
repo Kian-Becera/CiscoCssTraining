@@ -34,3 +34,13 @@
     list-style-type: lower-roman;
     list-style-image: url('https://edube.org/uploads/media/default/0001/04/oedg_icon_regular.png');
   }
+
+
+  /* HyperLink Propertis */
+
+  a:focus {
+    text-decoration: none;
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+  }
