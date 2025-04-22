@@ -13,3 +13,17 @@
     background-repeat: no-repeat;
     background-color: lightblue;
   }
+
+
+  /* Font & Text Properties */
+
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-size: oblique;
+    text-decoration: line-through;
+
+    /* Format 
+    text-shadow: horizontal-offset vertical-offset blur-radius color; */
+    text-shadow:  2px 2px 4px green;
+  }
