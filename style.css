@@ -27,3 +27,10 @@
     text-shadow: horizontal-offset vertical-offset blur-radius color; */
     text-shadow:  2px 2px 4px green;
   }
+
+  /* List Style Properties */
+
+  ul {
+    list-style-type: lower-roman;
+    list-style-image: url('https://edube.org/uploads/media/default/0001/04/oedg_icon_regular.png');
+  }
