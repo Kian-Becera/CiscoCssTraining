@@ -1,0 +1,15 @@
+/* Example of Shorthand Properties */
+
+.element {
+    background: url('bg-image.jpg') top right / cover no-repeat lightblue;
+  }
+
+
+/* Example of Longhand Properties */
+.element {
+    background-image: url('bg-image.jpg');
+    background-position: top right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+  }
